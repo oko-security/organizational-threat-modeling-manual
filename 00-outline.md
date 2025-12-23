@@ -1,4 +1,4 @@
-# Company Threat Modeling Manual - Outline
+# Organizational Threat Modeling Manual - Outline
 
 ## Purpose
 This manual provides a comprehensive framework for performing organizational threat modeling. Designed for security consultants and internal security teams conducting enterprise-level threat assessments.
