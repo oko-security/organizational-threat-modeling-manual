@@ -174,12 +174,6 @@ Security exists to enable business. Risk assessment ties technical findings to b
 **Living over static:**
 Threat models decay. Chapter 9 covers keeping your assessment current through continuous monitoring and regular updates.
 
-## Voice and Tone
-
-This manual is written like an experienced practitioner walking you through the process. Direct. Technical. No fluff. No emojis. Just what works.
-
-Think old school sysadmin documenting a complex process - clear, efficient, slightly opinionated, but never condescending.
-
 ## Prerequisites
 
 **Knowledge:**
@@ -202,16 +196,6 @@ Most tools referenced are free and open source. See [Chapter 2](02-reconnaissanc
 **Large organization** (1000+ employees): 160-400+ hours
 
 These estimates include discovery, analysis, and documentation. Complex environments (multi-cloud, extensive SaaS, highly regulated) take longer.
-
-## Contributing
-
-Found an error? Have a better technique? Want to add a template?
-
-This manual improves through real-world use. Contributions welcome.
-
-## License
-
-This manual is provided for educational and professional use. Use it for consulting engagements, internal security programs, or learning.
 
 ## Version
 
@@ -244,5 +228,3 @@ This manual represents years of organizational threat modeling experience distil
 Use what works. Adapt what doesn't. Contribute improvements back.
 
 The threat landscape evolves. So should your methodology.
-
-Good luck. Stay paranoid.
